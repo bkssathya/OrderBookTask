@@ -1,0 +1,10 @@
+{
+    "home": {
+      "increasePrecision": "Increase Precision",
+      "decreasePrecision": "Decrease Precision",
+      "orderBook": {
+        "buyOrders": "Buy Orders",
+        "sellOrders": "Sell Orders"
+      }
+    }
+}
